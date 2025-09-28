@@ -1,3 +1,4 @@
 # techsagar
-This is my first Git Reposatory,
+This is my first Git Reposatory.
+<br>
 Author - Sagar Gupta
